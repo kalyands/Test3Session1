@@ -1,1 +1,12 @@
-
+#include<stdio.h>
+void input(int *num*1,int *den,int *num2,int *den2){
+printf(enter the number numrator and denominator of fraction 1\n);
+scanf(%d %d,num1,den1);
+printf(enter the number numerator and denominator of fraction 2\n);
+scanf(%d %d,nim2,den2);
+}
+void add(int num1,int den1, int num2, int den2, int *num3, int *den3);
+   *num3=((num2*den1)+(num1*den2));
+   *den3=(den1*den2);
+   for(i=2<=*den3,i++)
+    if(*numi==0 && deni==0)
